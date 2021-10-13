@@ -19,4 +19,6 @@
 - arduino 编程
 - 基础电路知识
 - 基础焊接功能
+
+
 ![image](https://github.com/sunke-github/Boat_power_monitor_esp32/blob/main/%E7%94%B5%E5%8E%8B%E6%B5%8B%E9%87%8F%E5%8E%9F%E7%90%86%E5%9B%BE.png)
